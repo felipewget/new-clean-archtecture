@@ -1,4 +1,4 @@
-##### Why Giuseppe? that's the name of grandfather of my grandfather (:
+##### Why Giuseppe on package.json? that's the name of grandfather of my grandfather (:, that's the version name of this clean arch.
 
 ----
 
